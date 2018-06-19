@@ -22,7 +22,7 @@ with the fitted parameters
 - The results of the project is the video `output_video.mp4` which can be obtained by running the ipython notebook `Submission.ipynb`
 
 
-![Output Gif](output.gif)
+![Output Gif](https://media.giphy.com/media/WNmZfvfU7gFTSzJby5/giphy.gif)
 
 [//]: # (Image References)
 
